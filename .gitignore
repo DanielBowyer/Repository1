@@ -1,1 +1,12 @@
+# comments to be inserted
 tempfile.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+# track files startingg with "tour_" and ending with ".mp4"
+!assets/videos/tour_*.mp4
+
+
